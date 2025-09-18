@@ -9,7 +9,7 @@ int main(void)
     printf("input a number:");
     scanf("%c",&c);
     
-    i=
+    i= c - '0';
     printf("The input number is %i\n",i);
   
 
